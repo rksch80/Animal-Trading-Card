@@ -1,14 +1,19 @@
-# Animal-Trading-Card
-Project1-intro to programming Udacity Nanodegree
+#animal trading card
 
-To run Animal Trading Cards open index.html
 
-Udacity description of the project:
+##Description
+Given a zip-file containing a HTML-file, a CSS-file, a placeholder image and a design prototype.Replace the information and image with your favorite animal's information and image. Style it using valid CSS in accordance with the design prototype.
 
-1.Download and unzip animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png, and the design-prototype.png.
+##Prerequisites
+The course was 4.5 hours and contained CSS Syntax, a related problem set and a short course on how to write code faster . Below is a short summary of the content; just be adviced that this in no way is a comprehensive or detailed explanation of the content covered.
 
-2.Next, open card.html and replace the placeholder image and information with your favorite animal's image and information. For the image, you will want to use an image with a width of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted. Later, we’ll talk about how you can fix this problem using responsive images. Also, don't forget to change the image's alt attribute to the name of your animal. So, alt="name-of-your-animal" should be replaced with the actual name of your animal.
+##CSS Syntax
+After a short introduction to what CSS is the CSS ruleset was explained. It then described the importance of using comments and how to use them in CSS. Thereafter tag selectors and attributes were introduced. It then explained how to use Chrome Dev Tools both to debug and insert CSS styles into web sites.
 
-3.Once you've added your favorite animal's image and information, add the proper CSS to styles.css to recreate the design-prototype.png by applying the style rules in step 4. You’ll need to modify card.html to include attributes and use selectors to specify the elements you want to style. Also, make sure to link to your stylesheet in card.html or else your CSS will not be applied to your webpage.
+It continued with explaining CSS units and different ways to introduce colors on web sites, using hex and rgb values, how to convert them as well as named colors. Finally it explained how to use shorthand properties.
 
-4.The CSS should apply these styles to match the design prototype: - italicized text for the animal's interesting fact - bolded labels for the animal's list items (e.g. 'Habitat') - no dots for the animal's list items - border around the animal's name, image, and information - border around the animal's information - spacing between the animal's name, image, and information (you will need to use the property padding)
+##Solution
+Used the appropriate CSS rules to style the document in accordance with the design mockup and validated it in W3C Validator. You can view it here.
+
+##Closure
+The solution met the specifications.
