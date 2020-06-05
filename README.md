@@ -1,4 +1,4 @@
-animal trading card
+Animal Trading Cards
 
 
 ##Description
@@ -20,4 +20,5 @@ It continued with explaining CSS units and different ways to introduce colors on
 Used the appropriate CSS rules to style the document in accordance with the design mockup and validated it in W3C Validator. You can view it here.
 
 ##Closure
+
 The solution met the specifications.
